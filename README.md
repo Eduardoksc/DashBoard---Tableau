@@ -9,18 +9,20 @@ Crear un Dasshaboard interactivo en línea usando como herramienta Tableau, dond
 
 ## Objetivos:
 
-- •	Tener en un único informe los principales datos necesarios para la gestión del hotel 
-- •	Con fecha actual y también con visión de evolución en los últimos meses
-- •	Que toda la dirección use los mismos datos y comparta las mismas métricas
+- 	Tener en un único informe los principales datos necesarios para la gestión del hotel 
+- 	Con fecha actual y también con visión de evolución en los últimos meses
+- 	Que toda la dirección use los mismos datos y comparta las mismas métricas
 
 ## KPI 
 
-- • El número de reservas 
-- •	La facturación
-- •	La tasa de ocupación 
-- •	El RevPar
-- •	El ADR
-- •	La tasa de cancelación
+-  El número de reservas 
+- 	La facturación
+- 	La tasa de ocupación 
+- 	El RevPar
+- 	El ADR
+- 	La tasa de cancelación
+
+  < a href = "https://github.com/Eduardoksc/DashBoard---Tableau/blob/main/hoteles.csv"> "Dataset" </a>
 
   
 
