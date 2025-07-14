@@ -30,7 +30,7 @@ Crear un Dasshaboard interactivo en línea usando como herramienta Tableau, dond
  
  <a href ="https://public.tableau.com/views/CasoHoteles_17511495989790/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">DashBoard en Tableau Public</a>
 
- https://github.com/Eduardoksc/DashBoard---Tableau/blob/main/Caso%20Hoteles.PNG
+<img width="1407" height="829" alt="Caso Hoteles" src="https://github.com/user-attachments/assets/84952aa3-ccdf-4c28-b088-7ef0d8509958" />
 
   
 
